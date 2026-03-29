@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 Currently learning Full Stack Development  <br>⚛️ Working with React, Tailwind CSS  <br>🔥 Building projects like Road-Mate  <br>📈 Improving DSA & problem solving  
+🎓 Currently learning Full Stack Development  <br>⚛️ Working with React, Tailwind CSS  <br>🔥 Building projects like Wconnect  <br>📈 Improving DSA & problem solving  
 
 
 ## 🌐 Socials:
